@@ -1,0 +1,16 @@
+[package]
+name = "stock_monitoring"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+reqwest =  { version = "0.12.5", features = ["json"] }
+serde = { version = "1.0" ,features = ["derive"]}
+serde_json="1.0"
+ndarray="0.15"
+plotters="0.3.6"
+linfa="0.7.0"
+linfa-bayes="0.7.0"
+thiserror="1.0"
+csv="1.1"
+tokio={version= "1" ,features =["full"]}

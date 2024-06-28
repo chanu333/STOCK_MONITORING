@@ -1,0 +1,11 @@
+C:\Users\pathur24\Desktop\rust\stock_monitoring\target\debug\deps\libsocket2-aba6099c2b84cfb6.rmeta: C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\lib.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\sockaddr.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\socket.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\sockref.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\sys\windows.rs
+
+C:\Users\pathur24\Desktop\rust\stock_monitoring\target\debug\deps\libsocket2-aba6099c2b84cfb6.rlib: C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\lib.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\sockaddr.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\socket.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\sockref.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\sys\windows.rs
+
+C:\Users\pathur24\Desktop\rust\stock_monitoring\target\debug\deps\socket2-aba6099c2b84cfb6.d: C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\lib.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\sockaddr.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\socket.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\sockref.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\sys\windows.rs
+
+C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\lib.rs:
+C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\sockaddr.rs:
+C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\socket.rs:
+C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\sockref.rs:
+C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\sys\windows.rs:

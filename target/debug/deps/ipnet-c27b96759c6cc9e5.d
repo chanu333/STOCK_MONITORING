@@ -1,0 +1,11 @@
+C:\Users\pathur24\Desktop\rust\stock_monitoring\target\debug\deps\libipnet-c27b96759c6cc9e5.rmeta: C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.9.0\src\lib.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.9.0\src\ipext.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.9.0\src\ipnet.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.9.0\src\parser.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.9.0\src\mask.rs
+
+C:\Users\pathur24\Desktop\rust\stock_monitoring\target\debug\deps\libipnet-c27b96759c6cc9e5.rlib: C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.9.0\src\lib.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.9.0\src\ipext.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.9.0\src\ipnet.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.9.0\src\parser.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.9.0\src\mask.rs
+
+C:\Users\pathur24\Desktop\rust\stock_monitoring\target\debug\deps\ipnet-c27b96759c6cc9e5.d: C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.9.0\src\lib.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.9.0\src\ipext.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.9.0\src\ipnet.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.9.0\src\parser.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.9.0\src\mask.rs
+
+C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.9.0\src\lib.rs:
+C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.9.0\src\ipext.rs:
+C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.9.0\src\ipnet.rs:
+C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.9.0\src\parser.rs:
+C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.9.0\src\mask.rs:

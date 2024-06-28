@@ -1,0 +1,11 @@
+C:\Users\pathur24\Desktop\rust\stock_monitoring\target\debug\deps\libtower_layer-a19f5bf864d93933.rmeta: C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\lib.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\identity.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\layer_fn.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\stack.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\tuple.rs
+
+C:\Users\pathur24\Desktop\rust\stock_monitoring\target\debug\deps\libtower_layer-a19f5bf864d93933.rlib: C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\lib.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\identity.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\layer_fn.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\stack.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\tuple.rs
+
+C:\Users\pathur24\Desktop\rust\stock_monitoring\target\debug\deps\tower_layer-a19f5bf864d93933.d: C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\lib.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\identity.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\layer_fn.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\stack.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\tuple.rs
+
+C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\lib.rs:
+C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\identity.rs:
+C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\layer_fn.rs:
+C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\stack.rs:
+C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\tuple.rs:

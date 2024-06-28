@@ -1,0 +1,11 @@
+C:\Users\pathur24\Desktop\rust\stock_monitoring\target\debug\deps\libapprox-0451fa4d60019ea8.rmeta: C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\lib.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\abs_diff_eq.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\relative_eq.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\ulps_eq.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\macros.rs
+
+C:\Users\pathur24\Desktop\rust\stock_monitoring\target\debug\deps\libapprox-0451fa4d60019ea8.rlib: C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\lib.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\abs_diff_eq.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\relative_eq.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\ulps_eq.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\macros.rs
+
+C:\Users\pathur24\Desktop\rust\stock_monitoring\target\debug\deps\approx-0451fa4d60019ea8.d: C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\lib.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\abs_diff_eq.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\relative_eq.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\ulps_eq.rs C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\macros.rs
+
+C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\lib.rs:
+C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\abs_diff_eq.rs:
+C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\relative_eq.rs:
+C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\ulps_eq.rs:
+C:\Users\pathur24\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\macros.rs:
